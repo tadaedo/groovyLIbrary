@@ -5,4 +5,8 @@ class Library {
     boolean someLibraryMethod() {
         true
     }
+
+    def foo() {
+        println 'test groovy library'
+    }
 }
